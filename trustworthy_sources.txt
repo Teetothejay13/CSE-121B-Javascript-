@@ -1,0 +1,25 @@
+During my thinking about this assignment, I thought of quite a few resources that I would consider to be reputable
+or trustworthy. As the jokes go, half of being a software engineer is being able to look up the problem on google
+and find the solution, so being able to find reputable solutions is kind of in the job description. That being said,
+there are some sites that are generally good sources for good solutions, without much confusion.
+
+For one, there are websites like Stack Overflow and GitLab Forum. With the forum format, you can find pretty much any
+solution to any problem with any language. Since it's a collaborative effort between software engineers and programming
+beginners alike, most of the solutions can be trusted to work efficiently and effectively. One rule of thumb with
+these though, it's best to look at multiple answers. There's rarely a one size fits all solution to any coding bug, so
+checking mutliple answers to see which fits best is a good practice.
+
+For another, there are websites like Github. While Github is not a place to ask questions or anything of that sort, it
+can be a good place to find functional code to build off of. I can't count the number of times where seeing a functional
+program doing what I wanted it to do was more helpful than being told what was wrong. You have to be careful with this
+though, because it can easily let you slip into plagarising code. As long as you only take inspiration from programs
+belonging to other people, then everything should be fine.
+
+Lastly, websites sponsored by the language or library themselves are always a good option. If you're struggling with a
+certain language, library, or module, then going to the website of that language, library, or module can be a very
+good way of learning what is going wrong and what you should be doing. One pitfall for this though is that sometimes the
+websites aren't very comprehensive, and can be confusing.
+
+Overall, any source can be considered reputable if the solution works. If the suggested solution works as desired, then
+I see no reason to deem it not reputable. As long as you are careful with choosing where you browse, and how you implement
+the solutions suggested to you, then you should be fine.
